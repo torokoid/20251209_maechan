@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20251209_maechan/20251209_051.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20251209_maechan/20251209_047.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -209,7 +209,7 @@ p.note { display: none; }
 <h2><span class="yellow">この後他の車を置き去りに走り去りました</span></h2>
 <a href="20251209_015.JPG" target="_blank"><img src="20251209_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">金の仏像様のお寺、対向車車線側です</span></h2>
+<h2><span class="yellow">金の仏像様のお寺、対向車線側です</span></h2>
 <a href="20251209_016.JPG" target="_blank"><img src="20251209_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251209_017.JPG" target="_blank"><img src="20251209_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
